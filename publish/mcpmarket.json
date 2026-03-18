@@ -1,0 +1,12 @@
+{
+  "name": "agent-notify",
+  "version": "1.0.0",
+  "displayName": "Agent Notify",
+  "description": "Cross-platform notification sound & taskbar flash for AI coding agents. Plays alert sounds and visual notifications when the agent needs confirmation or completes tasks.",
+  "author": "Miluer-tcq",
+  "repository": "https://github.com/Miluer-tcq/agent-notify",
+  "tags": ["notification", "sound", "alert", "productivity", "cross-platform"],
+  "platforms": ["windows", "macos", "linux"],
+  "category": "productivity",
+  "install": "git clone https://github.com/Miluer-tcq/agent-notify.git && cp -r agent-notify ~/.claude/skills/"
+}
