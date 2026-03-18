@@ -1,0 +1,12 @@
+This is a placeholder for the demo screenshot/GIF.
+Replace this file with an actual demo recording showing:
+1. Claude asking for confirmation → sound plays + taskbar flashes
+2. Claude completing a task → completion sound plays
+3. The setup wizard in action (one-click and custom modes)
+
+Recommended: Record a GIF using tools like:
+- Windows: ShareX, ScreenToGif
+- macOS: Kap, GIPHY Capture
+- Linux: Peek, Gifine
+
+Suggested dimensions: 800x450px or 1280x720px
