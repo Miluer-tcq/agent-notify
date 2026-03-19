@@ -23,13 +23,6 @@ When using AI coding agents, you switch to other windows while waiting. Without 
 
 ---
 
-## Demo
-
-![Demo](assets/demo-placeholder.png)
-<!-- TODO: Replace with actual demo GIF -->
-
----
-
 ## Features / 功能
 
 | Feature | Windows | macOS | Linux |
@@ -43,6 +36,12 @@ When using AI coding agents, you switch to other windows while waiting. Without 
 ---
 
 ## Install / 安装
+
+```提示词
+请帮我安装这个skill：
+https://github.com/Miluer-tcq/agent-notify
+安装完成后告诉我如何触发它。
+```
 
 ```bash
 git clone https://github.com/Miluer-tcq/agent-notify.git
